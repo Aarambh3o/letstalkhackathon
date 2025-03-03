@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const centerXName = (pageWidth - textWidthName) / 2;
 
         firstPage.drawText(name, {
-            x: 100,
+            x: 50,
             y: 310,
             size: 30,
             font: MTCORSVA,
